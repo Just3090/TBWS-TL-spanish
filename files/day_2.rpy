@@ -1410,7 +1410,7 @@ translate spanish day_2_6a595cf0:
     # voice audio.sigh1
     # "I stretch my arms up and sigh, pretending to act relaxed."
     voice audio.sigh1
-    ""
+    "Estiro los brazos y suspiro, fingiendo estar relajado."
 
 # game/day_2.rpy:470
 translate spanish day_2_dace9c03:
